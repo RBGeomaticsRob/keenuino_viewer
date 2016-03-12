@@ -1,0 +1,25 @@
+{
+  "name": "keenuino_viewer",
+  "homepage": "https://github.com/RBGeomaticsRob/keenuino_viewer",
+  "authors": [
+    "RBGeomaticsRob <RBGeomaticsRob@users.noreply.github.com>"
+  ],
+  "description": "A viewer for an Arduino Keen.io Project",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "\"arduino\"",
+    "\"temperature\"",
+    "\"keen\""
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ]
+}
