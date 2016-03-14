@@ -6,7 +6,7 @@ var client = new Keen({
 Keen.ready(function(){
   var readings = "readings";
   var interval = "minutely";
-  var timeframe = "this_1_days";
+  var timeframe = "this_2_days";
 
   // ----------------------------------------
   // Sample one

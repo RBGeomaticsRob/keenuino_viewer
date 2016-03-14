@@ -64,8 +64,8 @@ Keen.ready(function(){
       },
     vAxis: {
         viewWindow: {
-          min: 10,
-          max: 25
+          min: 14,
+          max: 28
         }
       },
     isStacked: true
@@ -114,7 +114,7 @@ Keen.ready(function(){
       vAxis: {
         viewWindow: {
           min: 0,
-          max: 12
+          max: 14
         },
         textPosition: 'none'
       },
