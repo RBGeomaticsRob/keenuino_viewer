@@ -7,8 +7,8 @@ Keen.ready(function(){
   var readings = "readings";
   var interval = "minutely"
   var timeframe = {
-      start: "2016-03-08T10:00:00.000Z",
-      end: "2016-03-09T22:00:00.000Z"
+      start: "2016-03-04T14:00:00.000Z",
+      end: "2016-03-05T02:00:00.000Z"
     };
 
   // ----------------------------------------
